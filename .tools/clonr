@@ -1,0 +1,2 @@
+#!/data/data/com.termux/files/usr/bin/env bash
+git clone https://$GH_TOKEN@github.com/$GH_USERNAME/$1.git

@@ -1,0 +1,4 @@
+#!/data/data/com.termux/files/usr/bin/env bash
+git init
+git branch -M main
+git remote add origin https://$GH_TOKEN@github.com/$GH_USERNAME/$1.git
