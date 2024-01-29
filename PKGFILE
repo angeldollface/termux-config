@@ -1,0 +1,11 @@
+git
+nasm
+build-essential
+termux-api 
+vim 
+neofetch 
+file 
+python 
+curl 
+wget 
+rust
